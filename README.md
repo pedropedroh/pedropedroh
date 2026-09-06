@@ -1,4 +1,4 @@
-# Pedro Henrique Moreira — Front-end Developer
+# Pedro Moreira — Front-end Developer
 
 Front-end Developer focused on TypeScript and React, building web applications and transforming business requirements into clear, consistent, and maintainable features.
 
